@@ -12,6 +12,7 @@ public class FirstGitProject {
         double calc = teste * 2.0;
 
         System.out.println("Valor total: " + calc);
+        sc.close();
     }
 
 }
